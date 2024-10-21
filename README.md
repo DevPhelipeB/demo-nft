@@ -7,5 +7,4 @@ Initial demo NFT
 # MyCreate NFT
 >
 
-# Create IMG
-> MS Copilot
+> Phelipe B. Alves
